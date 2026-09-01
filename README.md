@@ -19,6 +19,7 @@ The testing showed that some prompt injection attempts were successfully blocked
 ## Project Report
 
 The complete project report, including the setup, testing methodology, prompt injection scenarios, results, analysis, and mitigation strategies, can be accessed below:
+
 [AI Prompt Injection Security Testing.pdf](https://github.com/user-attachments/files/31689141/AI.Prompt.Injection.Security.Testing.pdf)
 
 ## Conclusion
@@ -28,6 +29,7 @@ The project demonstrated that prompt injection can influence AI behavior in unin
 Author
 
 **Alishba Anwar**
+
 www.linkedin.com/in/alishba-anwar-51bb6a412
 
 
