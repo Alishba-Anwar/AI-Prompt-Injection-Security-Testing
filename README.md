@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A cybersecurity project focused on studying and testing prompt injection vulnerabilities in a locally deployed AI assistant. The project uses Kali Linux, Ollama, and the Llama 3.2 Large Language Model (LLM) to conduct controlled security experiments using synthetic data.
+A Cybersecurity Red Team Project focused on studying and testing prompt injection vulnerabilities in a locally deployed AI assistant. The project uses Kali Linux, Ollama, and the Llama 3.2 Large Language Model (LLM) to conduct controlled security experiments using synthetic data.
 
 ## Project Environment
 
