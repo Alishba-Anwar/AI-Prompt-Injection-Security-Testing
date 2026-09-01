@@ -28,8 +28,8 @@ The project demonstrated that prompt injection can influence AI behavior in unin
 
 ## Collaborators
 
-Alishba Anwar
-Alishba Mehar
+- Alishba Anwar
+- Alishba Mehar
 
 ## Author
 
