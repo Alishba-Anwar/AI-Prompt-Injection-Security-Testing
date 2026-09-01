@@ -26,7 +26,7 @@ The complete project report, including the setup, testing methodology, prompt in
 
 The project demonstrated that prompt injection can influence AI behavior in unintended ways. While the AI blocked several attempted attacks, certain techniques successfully resulted in information disclosure. The findings highlight the importance of strong system instructions, input filtering, access controls, monitoring, and regular security testing for AI applications.
 
-Author
+## Author
 
 **Alishba Anwar**
 
